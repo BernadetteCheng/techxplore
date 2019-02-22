@@ -1,0 +1,23 @@
+body {
+  background: url('https://www.clinplus.com/wp-content/uploads/2018/05/data-2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#hidden, #hidden1, #hidden2 {
+display: none;
+}
+
+.col-xs-6 {
+margin: 10%;
+}
+
+.container {
+  padding: 5%;
+}
+
+.home {
+font-size: 20px;
+}
